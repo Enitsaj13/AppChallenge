@@ -25,5 +25,8 @@ https://reactnative.dev/docs/environment-setup
 https://drive.google.com/file/d/1JFSXAXBrJypirC7SfFoX4hjnWTwOVXOT/view?usp=sharing
 
 
+NOTE: Bottom drop shadow in android is not achievable but in IOS it is doable. 
+
+
 
 
